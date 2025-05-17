@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AirportCityApplication {
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(AirportCityApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
